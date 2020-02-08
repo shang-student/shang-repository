@@ -1,0 +1,2 @@
+# shang-repository
+fresh student
